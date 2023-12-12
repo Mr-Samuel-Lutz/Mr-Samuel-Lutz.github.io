@@ -11,14 +11,12 @@ function Games() {
     // });
     const response = await fetch(url);
     const data = await response.json();
-    console.log(data.count);
     setGameCount(data.count);
     data.games.forEach((game: any) => {
       const gameItem: Game = {
         name: game.name,
       };
       gameData.push(gameItem);
-      console.log(gameData);
     });
   };
   getData(
