@@ -1,11 +1,11 @@
 import Header from "../../Components/Header/Header";
-import Updates from "../Updates/Updates";
+import Christmas23 from "../Updates/Christmas23";
 
 function Home() {
   return (
     <>
       <Header />
-      <Updates />
+      <Christmas23 />
     </>
   );
 }
