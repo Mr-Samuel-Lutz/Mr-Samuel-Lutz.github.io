@@ -3,7 +3,7 @@ import FamilyPhoto from "../../Images/2024/Family_Photo.jpg";
 const Christmas23 = () => {
   return (
     <div className="w-full flex justify-center">
-      <div className="m-4 w-1/3 flex flex-col items-center">
+      <div className="m-4 md:w-1/3 flex flex-col items-center">
         <h2 className="font-semibold text-xl mb-2">
           Merry Christmas! (December 2023)
         </h2>
