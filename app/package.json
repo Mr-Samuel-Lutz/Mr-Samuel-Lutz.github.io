@@ -1,7 +1,7 @@
 {
-  "name": "lutzfam",
+  "name": "lutzhaus",
   "version": "0.1.0",
-  "homepage": "https://mr-samuel-lutz.github.io",
+  "homepage": "https://lutzhaus.com",
   "private": true,
   "dependencies": {
     "@react-navigation/native": "^6.1.9",
