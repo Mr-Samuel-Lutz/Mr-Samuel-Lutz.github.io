@@ -4,6 +4,7 @@
   "homepage": "https://lutzhaus.com",
   "private": true,
   "dependencies": {
+    "@material-tailwind/react": "^2.1.7",
     "@react-navigation/native": "^6.1.9",
     "@react-navigation/native-stack": "^6.9.17",
     "@react-navigation/stack": "^6.3.20",
@@ -25,6 +26,7 @@
     "react-navigation": "^5.0.0",
     "react-router-dom": "^6.20.1",
     "react-scripts": "5.0.1",
+    "tw-elements": "^1.1.0",
     "typescript": "^4.9.4",
     "web-vitals": "^2.1.4"
   },
