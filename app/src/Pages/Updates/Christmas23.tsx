@@ -1,5 +1,5 @@
 import { Carousel } from "@material-tailwind/react";
-import FamilyPhoto from "../../Images/2024/Family_Photo.jpg";
+import FamilyPhoto from "../../Images/2023/Family_Photo.jpg";
 
 const Christmas23 = () => {
   return (
