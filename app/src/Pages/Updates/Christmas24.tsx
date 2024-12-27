@@ -1,4 +1,3 @@
-import { Carousel } from "@material-tailwind/react";
 import FamilyPhoto from "../../Images/2024/Family_Photo.jpg";
 
 const Christmas24 = () => {
@@ -31,7 +30,7 @@ const Christmas24 = () => {
             <div className="text-left indent-6">
               In April, we made a return to the Gigazone Gaming Convention in
               Bemidji! We are making it a yearly thing now. Last year, we played
-              Super Smash Bros. but this year, we played a Trading Card Game
+              Super Smash Bros., but this year, we played a Trading Card Game
               called Magic: The Gathering. Emily put a lot of time and effort
               into creating a costume for a cosplay contest where she dressed up
               as Hera Syndulla, a Twi'lek from Star Wars. Sam dressed up as the
@@ -41,11 +40,12 @@ const Christmas24 = () => {
               At the end of April, Emily passed Real Estate tests, got a Real
               Estate license, and is now working as a Realtor for the Northwoods
               Team at RE/MAX Advantage Plus. She has had a very successful first
-              year as a Realtor, with multiple closings, both listing and
-              selling houses, as well as helping clients find and buy houses as
-              well! Emily also still substitute teaches at Grand Rapids High
-              School from time to time, and we work together in our spare time
-              to convert people’s home videos to digital. Sam is finishing his
+              year as a Realtor with nine closings both listing and selling
+              houses, as well as helping clients find and buy houses! One of her
+              closings was helping Vera and Doug buy their home in Forest Lake.
+              Emily also still substitute teaches at Grand Rapids High School
+              from time to time, and we work together in our spare time to
+              convert people’s home videos to digital. Sam is finishing his
               third year of working for 3M, and this year he has been working on
               the&nbsp;
               <a
@@ -62,7 +62,7 @@ const Christmas24 = () => {
             </div>
             <div className="text-left indent-6">
               Emily threw a ‘May the Fourth' Star Wars themed Birthday Party for
-              her 24th Birthday. He had a lot of fun, with activities including
+              her 24th Birthday. We had a lot of fun, with activities including
               a Nerf Battle at the fairgrounds, Star Wars Bop-It. Stormtrooper
               Target Dart Practice, Star Wars Codenames, and more!
             </div>
@@ -73,11 +73,11 @@ const Christmas24 = () => {
               stoked to meet some of our favorite LEGO YouTubers in person! In
               July, Sam celebrated his 25th birthday. Over the 4th of July, we
               took a vacation and visited one of our friends on Madeline Island.
-              It was fun roller blading around the island, and it was the best
-              fireworks show we have ever seen. We also attended two family
+              It was fun roller blading around the island and viewing the best
+              fireworks show we had ever seen. We also attended two family
               reunions. For one, we got to take a roadtrip to Missouri, and took
               some time off work, went camping, and then got to spend time with
-              family for a few days, while staying at a mansion of an Airbnb.
+              family for a few days, while staying at a mansion of an Airbnb!
               Our room was Harry Potter themed. On the return journey, we
               visited Emily’s mom in Wisconsin, and also got to stop and visit
               some friends in Madison.
@@ -86,9 +86,9 @@ const Christmas24 = () => {
               To end the summer, Sam's parents sold their house (Sam's childhood
               home), and they are in the process of building a new house a
               couple of miles away. In the fall we also celebrated one year in
-              our home. We went kayaking a few times with our friends Tim and
-              Chris Stroming. We bought a Jeep, Emily joined Rotary, and we got
-              to go to two of our niece Lily’s swim meets in Grand Rapids.
+              our home. We also went kayaking a few times with our friends,
+              bought a Jeep, Emily joined Rotary, and we got to go to two of our
+              niece Lily’s swim meets in Grand Rapids.
             </div>
             <div className="text-left indent-6">
               In November, our cat Tubby passed away at age 16 1/2. He lived a
@@ -106,12 +106,20 @@ const Christmas24 = () => {
               stone sculpures.
             </div>
             <div className="text-left indent-6">
-              This winter, Emily has been volunteering at Lights in the Pines, a
-              Christmas Light Show at the Fairgrounds here in Grand Rapids. She
-              dresses up as an elf and spends time in ‘North Pole Junction’
+              This winter, Emily has been volunteering at&nbsp;
+              <a
+                className="cursor-pointer text-blue-600 font-semibold hover:underline"
+                rel="noreferrer noopener"
+                target="_blank"
+                href="https://youtube.com/shorts/LvAWUxO9iFE?si=A2iMjQ7NdMCH-BIY"
+              >
+                Lights in the Pines
+              </a>
+              , a Christmas Light Show at the Fairgrounds here in Grand Rapids.
+              She dresses up as an elf and spends time in ‘North Pole Junction’
               greeting, answering questions, helping kids write Christmas
               letters, etc.. Our hobbies for the winter include: LEGO (of
-              course), Reading, and playing a couple of trading card games;
+              course), reading, and playing a couple of trading card games;
               Magic: The Gathering and Star Wars: Unlimited. We also plan to go
               skiing and skating since there is actually a proper winter with
               snow this year.
