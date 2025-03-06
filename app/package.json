@@ -1,7 +1,7 @@
 {
   "name": "lutzhaus",
   "version": "0.1.0",
-  "homepage": "https://lutzhaus.com",
+  "homepage": "https://www.lutzhaus.com",
   "private": true,
   "dependencies": {
     "@material-tailwind/react": "^2.1.7",
