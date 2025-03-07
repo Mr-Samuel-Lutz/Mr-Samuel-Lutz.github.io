@@ -9,5 +9,10 @@
       }
     }
   ],
-  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
+  "routes": [
+    { "src": "/", "dest": "/" },
+    { "src": "/Sam", "dest": "/" },
+    { "src": "/Emily", "dest": "/" },
+    { "src": "/Updates", "dest": "/" }
+  ]
 }
