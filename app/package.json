@@ -35,7 +35,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "vercel -d build",
+    "deploy": "vercel --prod",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
