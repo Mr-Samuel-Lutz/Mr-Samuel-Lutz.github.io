@@ -4,19 +4,20 @@ import { Route, Routes, BrowserRouter } from "react-router-dom";
 import Home from "./Pages/Home/Home";
 import Updates from "./Pages/Updates/Updates";
 
-function App() {
+const App = () => {
   return (
     <>
-      <BrowserRouter>
+      <Home />
+      {/* <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/Sam" element={<Sam />} />
           <Route path="/Emily" element={<Emily />} />
           <Route path="/Updates" element={<Updates />} />
         </Routes>
-      </BrowserRouter>
+      </BrowserRouter> */}
     </>
   );
-}
+};
 
 export default App;
