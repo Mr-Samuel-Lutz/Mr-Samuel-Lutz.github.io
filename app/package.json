@@ -1,6 +1,7 @@
 {
   "name": "lutzhaus",
   "version": "0.1.0",
+  "homepage": "https://lutzhaus.vercel.app",
   "private": true,
   "dependencies": {
     "@material-tailwind/react": "^2.1.7",
