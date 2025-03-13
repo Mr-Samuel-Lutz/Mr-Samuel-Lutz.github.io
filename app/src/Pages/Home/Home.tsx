@@ -6,6 +6,7 @@ function Home() {
   return (
     <>
       <Header />
+      <>Home</>
       <Christmas24 />
       <Christmas23 />
     </>

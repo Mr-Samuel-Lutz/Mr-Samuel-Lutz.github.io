@@ -7,15 +7,15 @@ import Updates from "./Pages/Updates/Updates";
 const App = () => {
   return (
     <>
-      <Home />
-      {/* <BrowserRouter>
+      {/* <Home /> */}
+      <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/Sam" element={<Sam />} />
           <Route path="/Emily" element={<Emily />} />
           <Route path="/Updates" element={<Updates />} />
         </Routes>
-      </BrowserRouter> */}
+      </BrowserRouter>
     </>
   );
 };
